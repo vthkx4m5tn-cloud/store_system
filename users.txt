@@ -1,0 +1,5 @@
+admin|admin|Admin|M|771234567|1
+amaal|2006|Admin|F|784393997|1
+emp1|1234|Employee|F|784567677|1
+emp2|1234|Employee|F|787474673|1
+
